@@ -1,4 +1,4 @@
-# Assignment-1---DATA2410-Datanettverk-og-skytjenester_2021
+# Assignment-1---DATA2410-Datanettverk-og-skytjenester (2021)
 
 Readme Server.py
 
