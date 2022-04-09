@@ -53,16 +53,3 @@ Husk at disse bot/clientene kobles i paralell i hver sin nye terminal
 Info om programmet
   
 13. Alt blir forklart av print meldinger i terminalen så hvis du leser de og følger det den sier så bør programmet kjøre som den er ment
-
---------------------------------------------------------------------------------------------------------------------------------------
-Til slutt:
-
-Til slutt så vil jeg bare informere om at jeg har slitet mye med denne oppgaven og har gjort mitt beste for å få den til å fungere slik
-den skal selv om jeg ikke klarte å følge alle retningslinjene som blant annet å ha 3 command line parameters. Alikavel så 
-føler jeg at det jeg har gjort viser til at jeg har klart å løse hovedsakelig hva oppgaven innebærer. Jeg har fått hjelp og samarbeidet
-med mine medstudenter, men har jobbet selv med å løse oppgaven. 
-
-Jeg har fått et par tips om hvordan jeg kan løse oppgaven og fått hjelp med et par ting som jeg slet med å løse av både studentassistenter, medstudenter og Alfred. Men jeg har som sagt jobbet hart på egen hånd med 
-å forstå selv hvordan programmet mitt kjører og å sette det opp slik at det er lett for deg som sensor å skjønne hvordan jeg har tenkt.
-
-Jeg håper at dette arbeidet reflekterer at jeg har skjønt oppgaven og har klart i grei grad å løse Assaigment1
